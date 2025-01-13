@@ -28,7 +28,7 @@ Make sure you have Python 3.x installed on your machine. The required libraries 
 Installation
 Clone the repository:
 
-git clone https://github.com/Shabab01/A-B-Testing-Analysis-For-Marketing-Campaign.git
+git clone (https://github.com/SahrukhAhmed/A-B-Testing-of-Marketing-Campaign).git
 cd A-B-Testing-Analysis-For-Marketing-Campaign
 Install the dependencies:
 
@@ -56,4 +56,4 @@ This notebook provides insights into:
 Comparative Performance: Which platform performs better in terms of clicks and conversions.
 Statistical Significance: Determining if the observed differences between Facebook and AdWords are statistically significant.
 Future Trends: Forecasting models reveal expected future performance for clicks and conversions.
-License
+
